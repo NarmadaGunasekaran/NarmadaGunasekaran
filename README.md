@@ -6,14 +6,14 @@
 <!-- 2. TYPING HEADER -->
 <p align="center">
   <a href="https://github.com/NarmadaGunasekaran">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=QA+Automation+Engineer+%7C+6.5%2B+yrs;Selenium+%7C+Playwright+%7C+REST+Assured;Shift-Left+%7C+CI%2FCD+%7C+80%25+Coverage;ISTQB+CTFL+Certified+%E2%80%94+Based+in+Dresden+%F0%9F%87%A9%F0%9F%87%AA" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=QA+Automation+Engineer+%7C+6.5%2B+yrs;Selenium+%7C+Playwright+%7C+REST+Assured;Shift-Left+%7C+CI%2FCD+%7C+80%25+Coverage;ISTQB+CTFL+Certified+%E2%80%94+Based+in+Berlin+%F0%9F%87%A9%F0%9F%87%AA" alt="typing"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/narmada-g"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:gnarmada77@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Dresden,%20Germany-0D1117?style=flat-square&logo=googlemaps&logoColor=70A5FD"/>
+  <img src="https://img.shields.io/badge/Berlin,%20Germany-0D1117?style=flat-square&logo=googlemaps&logoColor=70A5FD"/>
   <img src="https://komarev.com/ghpvc/?username=NarmadaGunasekaran&style=flat-square&color=70A5FD&label=Profile+Views"/>
 </p>
 
@@ -28,7 +28,7 @@
 public class Narmada {
 
     String name        = "Narmada Gunasekaran";
-    String location    = "Dresden, Germany 🇩🇪";
+    String location    = "Berlin, Germany 🇩🇪";
     String degree      = "M.Sc. Information Technology";
     String role        = "QA Automation Engineer @ Tekion (ex-TCS)";
 
@@ -164,7 +164,7 @@ public class Narmada {
 | Project | Stack | Highlights |
 |---|---|---|
 | 🎭 **[Playwright Automation Framework](https://github.com/NarmadaGunasekaran)** | Playwright · TypeScript · JavaScript · POM | E2E framework with reusable page objects and data-driven structure for **scalable regression** — published on GitHub. |
-| 🌉 **Decision Bridge — Venture Hack '26** | SaaS · Multilingual NLP · Product Strategy | Built in **5 days** at Dresden exists × TUD/excite; full business case, ROI, EU NIS2 compliance, routing across **12 languages**. |
+| 🌉 **Decision Bridge — Venture Hack '26** | SaaS · Multilingual NLP · Product Strategy | Built in **5 days** at Berlin exists × TUD/excite; full business case, ROI, EU NIS2 compliance, routing across **12 languages**. |
 | 🤖 **GM Automotive QA Suite** *(Tekion)* | Selenium · TestNG · Jenkins · REST Assured | **500+ scenarios**, 80% automation, shipped revenue-critical Virtual Calling with **zero P1 defects** in prod. |
 
 </div>
@@ -210,6 +210,6 @@ public class Narmada {
 🧱 Languages         → German B2 → C1, advancing toward fluency
 ```
 
-<p align="center"><i>📍 Dresden · Open to QA Automation & SDET roles · Immediate availability on Chancenkarte visa</i></p>
+<p align="center"><i>📍 Berlin · Open to QA Automation & SDET roles · Immediate availability on Chancenkarte visa</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" alt="footer"/>
