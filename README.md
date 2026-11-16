@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/narmada-g"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:gnarmada77@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Berlin,%20Germany-0D1117?style=flat-square&logo=googlemaps&logoColor=70A5FD"/>
+  <img src="https://img.shields.io/badge/Dresden,%20Germany-0D1117?style=flat-square&logo=googlemaps&logoColor=70A5FD"/>
   <img src="https://komarev.com/ghpvc/?username=NarmadaGunasekaran&style=flat-square&color=70A5FD&label=Profile+Views"/>
 </p>
 
